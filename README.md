@@ -8,7 +8,7 @@
 ![Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?logo=googlegemini&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 
-> 🔒 **Repositório vitrine.** O código-fonte é proprietário (FML Tech) e fica privado. Aqui estão o problema, a arquitetura e as decisões técnicas. Demonstração técnica disponível sob solicitação.
+> **Repositório vitrine.** O código-fonte é proprietário (FML Tech) e fica privado. Aqui estão o problema, a arquitetura e as decisões técnicas. Demonstração técnica disponível sob solicitação.
 
 ## O problema
 
